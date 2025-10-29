@@ -1,1 +1,1 @@
-
+Created a module TextTokenizer to tokenize texts (with 3 methods) using following libraries: re (simple), NLTK (nltk), spaCy (spacy). Additioally used a function word_tokenize from NLTK and model ru_core_news_sm for spaCy. 
